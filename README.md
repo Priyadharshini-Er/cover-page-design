@@ -143,4 +143,4 @@ Add images and other contents using CSS record a screenshot of it.
 ![](./covout.png)
 
 ## Result:
-The program for designing book cover page using HTML and CSS is executed successfully
+The program for designing book cover page using HTML and CSS is executed successfully.
